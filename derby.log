@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 26 01:05:50 CST 2016:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@73d16e93 引导数据库
+目录 D:\JavaDemo\NutSaleSystem\People 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0155-8886-4c3c-000006040eb0
+已从 file:/D:/Java/db/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=D:\JavaDemo\NutSaleSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
